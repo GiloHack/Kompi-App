@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1005219506526",
+    "project_id": "kompi-app",
+    "storage_bucket": "kompi-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005219506526:android:db6fc4648dc4c564f2c7cf",
+        "android_client_info": {
+          "package_name": "com.example.kompiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005219506526-vv4e3q39o83u2fq32i2kvmc9hdfevqgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5s9EOswF2NsYg02bRhSAu-DL_vWJndiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005219506526-vv4e3q39o83u2fq32i2kvmc9hdfevqgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
